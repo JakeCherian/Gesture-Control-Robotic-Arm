@@ -92,6 +92,8 @@ This comprehensive approach allows GestureArm to provide an intuitive and respon
  <div class="image-container">
        <img src="Robotic Arm Circuit Diagram.jpg" alt="Logo" width="600" height="300"> 
     </div>
+<br><br>
+
 ## Conclusion and Future Development
 
 ### Project Achievement
@@ -134,5 +136,10 @@ This project serves as a foundation for various applications in:
 
 The GestureArm project not only demonstrates the current capabilities of gesture-controlled robotics but also opens up new possibilities for future developments in human-machine interaction.
 
+<!-- CONTACT -->
+## Team Members
+
+* Jacob Cherian - [@jake.cherian](https://www.instagram.com/jake.cherian/) - jakecherian10@gmail.com
+* Siddarth S - [@lionarth_messid](https://www.instagram.com/lionarth_messid/) - siddu16jan@gmail.com
 
 Project Link:  [https://github.com/JakeCherian/Gesture-Control-Robotic-Arm](https://github.com/JakeCherian/Gesture-Control-Robotic-Arm)
