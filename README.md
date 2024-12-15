@@ -139,7 +139,7 @@ The GestureArm project not only demonstrates the current capabilities of gesture
 <!-- CONTACT -->
 ## Team Members
 
-* Jacob Cherian - [@jake.cherian](https://www.instagram.com/jake.cherian/) - jakecherian10@gmail.com
-* Siddarth S - [@lionarth_messid](https://www.instagram.com/lionarth_messid/) - siddu16jan@gmail.com
+* Jacob Cherian - [@jake.cherian](https://github.com/JakeCherian) - jakecherian10@gmail.com
+* Siddarth S - [@lionarth_messid](https://github.com/LionarthMessid) - siddu16jan@gmail.com
 
 Project Link:  [https://github.com/JakeCherian/Gesture-Control-Robotic-Arm](https://github.com/JakeCherian/Gesture-Control-Robotic-Arm)
