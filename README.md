@@ -92,7 +92,7 @@ This comprehensive approach allows GestureArm to provide an intuitive and respon
  <div class="image-container">
        <img src="Robotic Arm Circuit Diagram.jpg" alt="Logo" width="600" height="300"> 
     </div>
-<br><br>
+<br>
 
 ## Conclusion and Future Development
 
